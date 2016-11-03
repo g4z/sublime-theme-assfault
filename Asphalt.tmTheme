@@ -43,6 +43,19 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Block Cursor</string>
+            <key>scope</key>
+            <string>block_cursor</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#392600</string>
+                <key>background</key>
+                <string>#B3B3B3</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Source</string>
             <key>scope</key>
             <string>entity.other.attribute-name</string>
